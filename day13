@@ -1,0 +1,36 @@
+# x = 4
+# # print (x)
+# # def hello():
+# #     x= 5
+# #     print(x)
+# #     print("hello")
+
+# # print(f"the global variable is{x}")
+# # hello()
+# # x=5
+# # print(f"the global is{x}")
+
+
+# def function():
+#     global x
+#     x=7
+#     y=8
+# function()
+# print(f"the value of x is{x}")
+# print(x)
+
+
+
+
+# file I0
+
+# f = open('myfile.txt','a')
+# # print(f)
+# text = f.write("this is")
+# print(text)
+# f.close()
+
+
+f= open('myfile.txt','a')
+f.write('hey hello world  ')
+f.close()
